@@ -32,4 +32,5 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 
+# additional files (could be added manually by Rstudio point/click)
 session-01/01-calculator.nb.html
