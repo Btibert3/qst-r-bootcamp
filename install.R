@@ -7,3 +7,4 @@ install.packages("devtools")
 # force current version in the short run to enable R Notebooks to run w/o other installs
 devtools::install_version("rmarkdown", version = "1.11", upgrade = "always")
 devtools::install_github("btibert3/brock")
+install.packages("tidymodels")
