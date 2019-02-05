@@ -18,6 +18,14 @@ source("install.R")
 The code above will install all of the packages, but this will be your environment moving forward.
 
 
+### Process
+
+- Install from GH repo to get the base packages
+- For each module, create the folders and files manually and update, ignore the older repos
+-- delete all when the bootcamp is done, as the GH repo is the source of truth
+-- `install.R` file is really the environment, with subfolders being the modules
+
+
 ### Bizarre / Bug?
 
 Steps to repeat:
